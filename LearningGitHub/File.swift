@@ -8,5 +8,5 @@
 import Foundation
 
 struct File {
-    var name:String?
+    var name:String? = "Rune"
 }
